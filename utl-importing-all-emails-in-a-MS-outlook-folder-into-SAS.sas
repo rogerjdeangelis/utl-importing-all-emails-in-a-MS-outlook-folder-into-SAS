@@ -69,7 +69,16 @@ CC Jane@doe.con
                                                                                                                                           
 ---------------------------------------------------                                                                                       
 1. MS ACCESS table with all emaile in folder drafts                                                                                       
----------------------------------------------------                                                                                       
+---------------------------------------------------  
+
+Automatically copy all emails to anaccess table drafts                          
+                                                                                
+  a. open a blank database in ms access                                         
+  b. click on tab external data                                                 
+  c. click on "more" just below XML file                                        
+  d. click on outlook folder "drafts"                                           
+  e. click on  folder "drafts" > highlight "drafts" > next "ok"                 
+  f. save database in d:/mdb/drafts.accdb                                       
                                                                                                                                           
                                                                                                                                           
 d:/mdb/drafts.accdb                                                                                                                       
