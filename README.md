@@ -5,7 +5,7 @@ Importing all emails in a MS outlook folder into SAS
     If you happen to have                                                                                                           
                                                                                                                                     
       Outlook 2010 64bit                                                                                                            
-      Ein  7 64bit                                                                                                                  
+      Win  7 64bit                                                                                                                  
       Classic Workstaion SAS 94M2 64bit and Access to PC-Files                                                                      
                                                                                                                                     
       Microsoft is a moving target so this may only work on July 4th 2010?                                                          
